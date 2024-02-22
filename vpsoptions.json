@@ -1,0 +1,108 @@
+[
+    {
+        title: "VPS-01",
+        category: "general",
+        description: "A versatile VPS solution for all-purpose deployments.",
+        price: "3.99",
+        features: [
+            "1 vCore (Xeon-E5)",
+            "1GB Memory",
+            "30GB SSD Storage",
+            "1 IPV4",
+            "Cosmic Guard DDOS Protection"
+        ]
+    },
+    {
+        title: "VPS-02",
+        category: "general",
+        description: "Balanced VPS for both performance and value.",
+        price: "5.99",
+        features: [
+            "2 vCore (Xeon-E5)",
+            "4GB Memory",
+            "60GB SSD Storage",
+            "1 IPV4",
+            "Cosmic Guard DDOS Protection"
+        ]
+    },
+    {
+        title: "PERF-VPS-01",
+        category: "cpu",
+        description: "CPU optimized for compute-intensive tasks.",
+        price: "7.99",
+        features: [
+            "4 vCore (Xeon-E5)",
+            "6GB Memory",
+            "50GB SSD Storage",
+            "1 IPV4",
+            "Cosmic Guard DDOS Protection"
+        ]
+    },
+    {
+        title: "PERF-VPS-02",
+        category: "cpu",
+        description: "CPU optimized for compute-intensive tasks.",
+        price: "11.99",
+        features: [
+            "6 vCore (Xeon-E5)",
+            "12GB Memory",
+            "100GB SSD Storage",
+            "2 IPV4",
+            "Cosmic Guard DDOS Protection"
+        ]
+    },
+    {
+        title: "PERF-VPS-03",
+        category: "cpu",
+        description: "CPU optimized for compute-intensive tasks.",
+        price: "15.99",
+        features: [
+            "8 vCore (Xeon-E5)",
+            "16GB Memory",
+            "150GB SSD Storage",
+            "2 IPV4",
+            "Cosmic Guard DDOS Protection"
+        ]
+    },
+    {
+        title: "MEM-VPS-04",
+        category: "memory",
+        description: "Memory optimized for applications that need more RAM.",
+        price: "9.99",
+        features: [
+            "2 vCore (Xeon-E5)",
+            "12GB Memory",
+            "150GB SSD Storage",
+            "1 IPV4",
+            "Cosmic Guard DDOS Protection"
+        ]
+    },
+    {
+        title: "GAME-VPS-01",
+        category: "game",
+        description: "Game server optimized for low latency and high performance.",
+        price: "11.99",
+        features: [
+            "2 vCore (Ryzen 9 7950X3D)",
+            "8GB Memory",
+            "60GB SSD Storage",
+            "1 IPV4",
+            "Cosmic Guard DDOS Protection"
+        ]
+
+    },
+    {
+        title: "GAME-VPS-02",
+        category: "game",
+        description: "Game server optimized for low latency and high performance.",
+        price: "19.99",
+        features: [
+            "4 vCore (Ryzen 9 7950X3D)",
+            "16GB Memory",
+            "120GB SSD Storage",
+            "2 IPV4",
+            "Cosmic Guard DDOS Protection"
+        ]
+
+    }
+]
